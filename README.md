@@ -1,5 +1,5 @@
 # Automation-using-LeafBot
-The repository contains a comprehensive set of Automation scripts developed using the LeafBot - a Hybrid Automation framework designed by Testleaf Software Solutions. 
+The repository contains a comprehensive set of Automation scripts developed using the <b>LeafBot</b> - a Hybrid Automation framework designed by Testleaf Software Solutions. 
 
 Leaftaps application (http://leaftaps.com/opentaps/control/main) is automated using LeafBot Hybrid Framework which utilizes a combination of industry-standard tools and frameworks such as Selenium WebDriver, TestNG, and Apache POI.
 
